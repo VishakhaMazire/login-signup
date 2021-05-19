@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "Vishakha Mazire",
+            "Password": "Vishakha@26",
+            "Profile": {
+                "description": "happy",
+                "d_o_b": "26/2/2000",
+                "Gender": "female",
+                "Hobbies": "craft"
+            }
+        },
+        {
+            "Username": "Ram Mazire",
+            "Password": "Ram@9",
+            "Profile": {
+                "description": "strong",
+                "d_o_b": "9/3/1962",
+                "Gender": "male",
+                "Hobbies": "cooking"
+            }
+        }
+    ]
+}
